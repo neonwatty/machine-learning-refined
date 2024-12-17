@@ -2,12 +2,12 @@
 
 <img align="right" src="readme_imgs/gifs/cover_2nd.png" height="420">
 
-This repository contains [chapter pdfs](https://github.com/jermwatt/machine_learning_refined/tree/gh-pages/sample_chapters/2nd_ed), [interactive Jupyter / Collab notebooks](#book-chapters), [exercises](#coding-exercises), and [presentations](#slides-and-additional-instructor-resources) for the 2nd edition of the university textbook Machine Learning Refined.
+This repository contains [chapter pdfs](https://github.com/jermwatt/machine_learning_refined/tree/main/sample_chapters/2nd_ed), [interactive Jupyter / Collab notebooks](#book-chapters), [exercises](#coding-exercises), and [presentations](#slides-and-additional-instructor-resources) for the 2nd edition of the university textbook Machine Learning Refined.
 
 Below is a detailed table of contents for the repo.
 
 # Table of Contents
-- [Download chapter PDFs for the 2nd edition 📄](https://github.com/jermwatt/machine_learning_refined/tree/gh-pages/sample_chapters/2nd_ed)
+- [Download chapter PDFs for the 2nd edition 📄](https://github.com/jermwatt/machine_learning_refined/tree/main/sample_chapters/2nd_ed)
 - [A sampler of widgets / pedagogy](#a-sampler-of-widgets-and-our-pedagogy)
 - [Chapter notes and Jupyter /Collab notebooks](#book-chapters)
 - [What is new in the second edition?](#what-is-new-in-the-second-edition)
@@ -387,13 +387,13 @@ text.<br><br>
 ## Coding exercises
 [(Back to top)](#table-of-contents)
 
-In the [mlrefined_exercises](https://github.com/jermwatt/machine_learning_refined/tree/gh-pages/mlrefined_exercises) directory you can find starting wrappers for coding exercises from the first and second editions of the text.<br><br>
+In the [mlrefined_exercises](https://github.com/jermwatt/machine_learning_refined/tree/main/mlrefined_exercises) directory you can find starting wrappers for coding exercises from the first and second editions of the text.<br><br>
 
 
 ## Slides and additional instructor resources
 [(Back to top)](#table-of-contents)
 
-[Slides for the 2nd edition of the text](https://github.com/jermwatt/machine_learning_refined/tree/gh-pages/presentations/2nd_edition) are available in pptx, jupyter, and reveal.js formats.  [Slides for the 1st edition of the text](https://github.com/jermwatt/machine_learning_refined/tree/gh-pages/presentations/1st_edition) are also available.
+[Slides for the 2nd edition of the text](https://github.com/jermwatt/machine_learning_refined/tree/main/presentations/2nd_edition) are available in pptx, jupyter, and reveal.js formats.  [Slides for the 1st edition of the text](https://github.com/jermwatt/machine_learning_refined/tree/main/presentations/1st_edition) are also available.
 
 Instructors may request a copy of this text for examination from the [publisher's website](http://cambridge.force.com/Samples?isbn=9781108480727&Title=Machine%20Learning%20Refined&Author=Watt/Borhani/Katsaggelos). Cambridge University Press can also provide you with the **solution manual** to both editions of the text.<br><br>
 
@@ -401,13 +401,13 @@ Instructors may request a copy of this text for examination from the [publisher'
 ## Errata
 [(Back to top)](#table-of-contents)
 
-<a target="_blank" href="https://github.com/jermwatt/machine_learning_refined/blob/gh-pages/sample_chapters/errata/errata.pdf">Here</a> you can find a regularly updated errata sheet for the second edition of the text. Please report any typos, bugs, broken links, etc., in the **Issues Section** of this repository or by contacting us directly via email (see contact section for more info).<br><br>
+<a target="_blank" href="https://github.com/jermwatt/machine_learning_refined/blob/main/sample_chapters/errata/errata.pdf">Here</a> you can find a regularly updated errata sheet for the second edition of the text. Please report any typos, bugs, broken links, etc., in the **Issues Section** of this repository or by contacting us directly via email (see contact section for more info).<br><br>
 
 
 ## Get a copy of the book
 [(Back to top)](#table-of-contents)
 
-- [Free sample chapters in pdf format]((https://github.com/jermwatt/machine_learning_refined/tree/gh-pages/sample_chapters/2nd_ed))
+- [Free sample chapters in pdf format]((https://github.com/jermwatt/machine_learning_refined/tree/main/sample_chapters/2nd_ed))
 - From [Cambridge University Press](https://www.cambridge.org/us/academic/subjects/engineering/communications-and-signal-processing/machine-learning-refined-foundations-algorithms-and-applications-2nd-edition?format=HB)
 - From [Amazon](https://www.amazon.com/Machine-Learning-Refined-Foundations-Applications/dp/1108480721)
 - From [Barnes & Noble](https://www.barnesandnoble.com/w/machine-learning-refined-jeremy-watt/1136155294?ean=9781108480727)
