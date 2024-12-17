@@ -1,14 +1,15 @@
-# Machine Learning Refined: Notes, Exercises, Presentations, and Sample Chapters 
+# Learn machine learning by building all the fundamentals from scratch - with Python
 
 <img align="right" src="readme_imgs/gifs/cover_2nd.png" height="420">
 
+This repository contains [chapter pdfs](https://github.com/jermwatt/machine_learning_refined/tree/gh-pages/sample_chapters/2nd_ed), [interactive Jupyter / Collab notebooks](#book-chapters), [exercises](#coding-exercises), and [presentations](#slides-and-additional-instructor-resources) for the 2nd edition of the university textbook Machine Learning Refined.
 
-Below you will find a range of resources - including extensive interactive Collab / Jupyter notebooks ![collab sticker](https://colab.research.google.com/assets/colab-badge.svg) - that complement the 2nd edition of Machine Learning Refined (published by Cambridge University Press).
+Below is a detailed table of contents for the repo.
 
 # Table of Contents
-- [Sample chapters from the 2nd edition](https://github.com/jermwatt/machine_learning_refined/tree/gh-pages/sample_chapters/2nd_ed)
+- [Download chapter PDFs for the 2nd edition 📄](https://github.com/jermwatt/machine_learning_refined/tree/gh-pages/sample_chapters/2nd_ed)
 - [A sampler of widgets / pedagogy](#a-sampler-of-widgets-and-our-pedagogy)
-- [Online notes (jupyter notebooks)](#online-notes)
+- [Chapter notes and Jupyter /Collab notebooks](#book-chapters)
 - [What is new in the second edition?](#what-is-new-in-the-second-edition)
 - [How to use the book](#how-to-use-the-book)
 - [Technical prerequisites](#technical-prerequisites)
@@ -116,7 +117,7 @@ testing code easier. A complete set of installation instructions, datasets, as w
 as starter notebooks can be found in this repository.<br><br>
 
 
-## Collab / Jupyter notes 
+## Book chapters
 [(Back to top)](#table-of-contents)
 
 A select number of Chapters/Sections are highlighted below and are linked to fully interactive Collab / Jupyter notebooks that served as *early drafts* for the second edition of the textbook. You can find these html files as well as Jupyter notebooks which created them in the `notes` subdirectory. <br><br> 
@@ -124,7 +125,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 <p align="center"><img src="readme_imgs/gifs/ipynb.gif" width="60%" height="auto"></p>
 <br>
 
-### Chapter 1. Introduction to Machine Learning
+### Chapter 1. Introduction to Machine Learning ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 1.1 Introduction<br>
 1.2 Distinguishing Cats from Dogs: a Machine Learning Approach<br> 
@@ -133,7 +134,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 1.5 Conclusion<br> 
 
 
-### Chapter 2. Zero-Order Optimization Techniques
+### Chapter 2. Zero-Order Optimization Techniques ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 [2.1 Introduction](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/2_Zero_order_methods/2_1_Introduction.ipynb) [![2.1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/2_Zero_order_methods/2_1_Introduction.ipynb) \
 [2.2 The Zero-Order Optimality Condition](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/2_Zero_order_methods/2_2_Zero.ipynb) [![2.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/2_Zero_order_methods/2_2_Zero.ipynb) \
@@ -145,7 +146,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 2.8 Exercises<br>
  
  
-### Chapter 3. First-Order Optimization Techniques
+### Chapter 3. First-Order Optimization Techniques ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 [3.1 Introduction](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/3_First_order_methods/3_1_Introduction.ipynb) [![3.1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/3_First_order_methods/3_1_Introduction.ipynb) \
 [3.2 The First-Order Optimality Condition](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/3_First_order_methods/3_2_First.ipynb) [![3.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/3_First_order_methods/3_2_First.ipynb) \
@@ -157,7 +158,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 3.8 Exercises<br>
 
 
-### Chapter 4. Second-Order Optimization Techniques
+### Chapter 4. Second-Order Optimization Techniques ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 [4.1 The Second-Order Optimality Condition](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/4_Second_order_methods/4_1_Second.ipynb) [![4.1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/4_Second_order_methods/4_1_Second.ipynb) \
 [4.2 The Geometry of Second-Order Taylor Series](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/4_Second_order_methods/4_2_Quadratic.ipynb) [![4.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/4_Second_order_methods/4_2_Quadratic.ipynb) \
@@ -167,7 +168,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 4.6 Exercises<br> 
 
 
-### Chapter 5. Linear Regression
+### Chapter 5. Linear Regression ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 5.1 Introduction<br>
 [5.2 Least Squares Linear Regression](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/5_Linear_regression/5_2_Least.ipynb) [![5.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/5_Linear_regression/5_2_Least.ipynb) \
@@ -180,7 +181,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 [5.9 Endnotes: Probabilistic interpretation of linear regression](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/5_Linear_regression/5_7_Probabilistic.ipynb) [![5.9](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/5_Linear_regression/5_7_Probabilistic.ipynb) \
 
 
-### Chapter 6. Linear Two-Class Classification
+### Chapter 6. Linear Two-Class Classification ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 6.1 Introduction<br>
 [6.2 Logistic Regression and the Cross Entropy Cost](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/6_Linear_twoclass_classification/6_2_Cross_entropy.ipynb) [![6.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/6_Linear_twoclass_classification/6_2_Cross_entropy.ipynb) \
@@ -195,7 +196,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 6.11 Exercises<br>  
 
 
-### Chapter 7. Linear Multi-Class Classification
+### Chapter 7. Linear Multi-Class Classification ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 7.1 Introduction<br>
 [7.2 One-versus-All Multi-Class Classification](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/7_Linear_multiclass_classification/7_2_OvA.ipynb) [![7.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/7_Linear_multiclass_classification/7_2_OvA.ipynb)\
@@ -209,7 +210,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 7.10 Exercises<br>  
 
 
-### Chapter 8. Linear Unsupervised Learning
+### Chapter 8. Linear Unsupervised Learning ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 8.1 Introduction<br>
 [8.2 Fixed Spanning Sets, Orthonormality, and Projections](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/8_Linear_unsupervised_learning/8_2_Spanning.ipynb) [![8.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/8_Linear_unsupervised_learning/8_2_Spanning.ipynb) \
@@ -222,7 +223,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 8.9 Endnotes<br>
 
 
-### Chapter 9. Feature Engineering and Selection
+### Chapter 9. Feature Engineering and Selection ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 9.1 Introduction<br>
 [9.2 Histogram Features](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/9_Feature_engineer_select/9_2_Histogram.ipynb) [![9.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/9_Feature_engineer_select/9_2_Histogram.ipynb) \
@@ -235,7 +236,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 9.9 Exercises<br>
 
 
-### Chapter 10. Principles of Nonlinear Feature Engineering
+### Chapter 10. Principles of Nonlinear Feature Engineering ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 [10.1 Introduction](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/10_Nonlinear_intro/10_1_Intro.ipynb) [![10.1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/10_Nonlinear_intro/10_1_Intro.ipynb) \ \
 [10.2 Nonlinear Regression](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/10_Nonlinear_intro/10_2_Regression.ipynb) [![10.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/10_Nonlinear_intro/10_2_Regression.ipynb) \
@@ -247,7 +248,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 10.8 Exercises<br>  
 
 
-### Chapter 11. Principles of Feature Learning
+### Chapter 11. Principles of Feature Learning ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 [11.1 Introduction](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/11_Feature_learning/11_1_Intro.ipynb) [![11.1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/11_Feature_learning/11_1_Intro.ipynb) \
 [11.2 Universal Approximators](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/11_Feature_learning/11_2_Universal.ipynb) [![11.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/11_Feature_learning/11_2_Universal.ipynb) \
@@ -264,7 +265,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 11.13 Exercises<br>
 
 
-### Chapter 12. Kernel Methods
+### Chapter 12. Kernel Methods ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 12.1 Introduction<br>
 12.2 Fixed-Shape Universal Approximators<br>
@@ -276,7 +277,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 12.8 Exercises<br>
 
   
-### Chapter 13. Fully Connected Neural Networks
+### Chapter 13. Fully Connected Neural Networks ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 13.1 Introduction<br>
 [13.2 Fully Connected Neural Networks](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/13_Multilayer_perceptrons/13_2_Multi_layer_perceptrons.ipynb) [![13.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/13_Multilayer_perceptrons/13_2_Multi_layer_perceptrons.ipynb) \
@@ -289,7 +290,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 13.9 Exercises<br> 
 
 
-### Chapter 14. Tree-Based Learners
+### Chapter 14. Tree-Based Learners ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 14.1 Introduction<br>
 14.2 From Stumps to Deep Trees<br>
@@ -302,7 +303,7 @@ A select number of Chapters/Sections are highlighted below and are linked to ful
 14.9 Exercises<br>
 
 
-### Appendix A. Advanced First- and Second-Order Optimization Methods
+### Appendix A. Advanced First- and Second-Order Optimization Methods ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 A.1 Introduction<br>
 [A.2 Momentum-Accelerated Gradient Descent](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/3_First_order_methods/A_2_Momentum.ipynb) [![A.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/3_First_order_methods/A_2_Momentum.ipynb) \
@@ -314,7 +315,7 @@ A.1 Introduction<br>
 [A.8 Newton’s Method, Regularization, and Nonconvex Functions](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/4_Second_order_methods/A_8_Nonconvex.ipynb) [![A.8](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/4_Second_order_methods/A_8_Nonconvex.ipynb) \
 [A.9 Hessian-Free Methods](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/4_Second_order_methods/A_9_Quasi.ipynb) [![A.9](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/4_Second_order_methods/A_9_Quasi.ipynb) 
 
-### Appendix B. Derivatives and Automatic Differentiation
+### Appendix B. Derivatives and Automatic Differentiation ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 B.1 Introduction<br> 
 B.2 The Derivative<br>
@@ -327,7 +328,7 @@ B.8 Higher-Order Derivatives<br>
 B.9 Taylor Series<br>
 [B.10 Using the autograd Library](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/3_First_order_methods/B_10_Automatic.ipynb) [![B.10](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/3_First_order_methods/B_10_Automatic.ipynb) 
 
-### Appendix C. Linear Algebra
+### Appendix C. Linear Algebra ([Download PDF 📄](https://github.com/neonwatty/machine-learning-refined/tree/main/sample_chapters/2nd_ed))
 
 C.1 Introduction<br>
 [C.2 Vectors and Vector Operations](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/16_Linear_algebra/16_2_Vectors.ipynb) [![16.2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/16_Linear_algebra/16_2_Vectors.ipynb) \
