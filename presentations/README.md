@@ -33,3 +33,7 @@
 ### Chapter 13: Fully Connected Neural Networks ([Download PPTXs 📄](https://www.dropbox.com/scl/fo/fi5g50ss69muxqh82j0vo/AF9g3zTfzmemghI2KJBQagU?rlkey=nt4kww5fudhvlougblfbdohd8&st=abv5f66l&dl=0))
 
 ### Chapter 14: Tree-Based Learners ([Download PPTXs 📄](https://www.dropbox.com/scl/fo/vh63blh6hw2aj6tubb3cf/AI34RHOk_g9GuYPX5k5UEVs?rlkey=6rc4yne45kp3dg484bt5olu80&st=u07wimtt&dl=0))
+
+## Older 1st edition presentations
+
+# All files ([Download PPTXs 📄](https://www.dropbox.com/scl/fo/hxa37kkumlzu2dkxkefbu/ABe6JfNp3216ry8X6rgbsa8?rlkey=y9kksj42am61e2hcbc3pdfk0q&st=rr2z6ic6&dl=0))

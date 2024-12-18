@@ -47,3 +47,11 @@
 ### Appendix B: Derivatives and Automatic Differentiation ([Download PDF 📄](https://www.dropbox.com/scl/fi/ktnbq0ok7darnqpjapq86/o_appendix_B.pdf?rlkey=739jkv9vzpvld9o1to6zq3j3t&st=i5ho2phs&dl=0))
 
 ### Appendix C: Linear Algebra ([Download PDF 📄](https://www.dropbox.com/scl/fi/rqoqtwds014egf33s4jqf/o_appendix_C.pdf?rlkey=xsb6265cvbrzv5y4itvmysbd3&st=ag1majbd&dl=0))
+
+## Errata
+
+# Errata for the 2nd edition of Machine Learning Refined ([Download PDF 📄](https://www.dropbox.com/scl/fi/1ovc9p4f5f17qdy485odp/errata.pdf?rlkey=6a1z5xtbqyqxars56zdo0v7gc&st=lgn640hy&dl=0))
+
+## Older 1st edition PDFs
+
+# All files ([Download PDFs 📄](https://www.dropbox.com/scl/fo/eu8ldo5wg7qcdgn8jlk3k/AJM5Xo7jqFrudrlBi-ApLY8?rlkey=bg91v9v6w4m9aux0v9sjqhhp6&st=hp9flwd1&dl=0))
