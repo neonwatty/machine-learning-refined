@@ -1,6 +1,6 @@
-# Chapter pdfs for Machine Learning Refined 2nd edition
+# Chapter PDFs for Machine Learning Refined 2nd edition
 
-# All files ([Download PDFs 📄](https://www.dropbox.com/scl/fo/troefyzi2ztt00vty3dys/AD58aErgFXX7q-wkMtL3xBc?rlkey=b5l7ilfzmt9hs20tso5kmujqa&st=vy60420w&dl=0))
+# All files ([Download PDFs 📄](https://www.dropbox.com/scl/fo/troefyzi2ztt00vty3dys/AD58aErgFXX7q-wkMtL3xBc?rlkey=3rmc5u76uxka7f0h7navu7lgf&st=8kyfdc30&dl=0))
 
 ### Table of Contents ([Download PDF 📄](https://www.dropbox.com/scl/fi/bcubem3onzfosm2pxmhmp/0_TOC.pdf?rlkey=orzo9jsxebtdd76us4ohhrj8g&st=9j45pv9j&dl=0))
 
