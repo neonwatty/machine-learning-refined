@@ -163,12 +163,13 @@ class Setup:
         # tune bias
         model_0 = lambda x,w: w*np.ones((1,x.shape[1]))
         self.cost.set_model(model_0)
-        w = np.array([0])
+        w = np.array([0])[:,np.newaxis]
         w_hist,c_hist = self.optimizer(self.cost.cost,self.x_train,self.y_train,w)
-
+        print('returned')
         # determine smallest cost value attained
         ind = np.argmin(c_hist)
         best_w = w_hist[ind][0]
+        print('best w shape', best_w.shape)
 
         # lock in model_0 value
         model = lambda x,w=best_w: model_0(x,w)
@@ -215,13 +216,14 @@ class Setup:
             for n in unused:
                 # get current proto-step to test
                 current_step = all_steps[n-1]
-                w = np.zeros((2,))
+                w = np.zeros((2,))[:,np.newaxis]
                 
                 # construct model to test
                 current_model = lambda x,w: model(x) + current_step(x,w)
                        
                 # load in current model
                 self.cost.set_model(current_model)
+                print('after self.cost.set_model', w.shape)
                 w_hist,c_hist = self.optimizer(self.cost.cost,self.x_train,self.y_train,w)
 
                 # determine smallest cost value attained

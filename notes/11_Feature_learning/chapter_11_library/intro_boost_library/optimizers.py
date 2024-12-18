@@ -49,6 +49,7 @@ def gradient_descent(g,w,x,y,alpha_choice,max_its,batch_size):
 
 # newtons method function
 def newtons_method(g,w,x,y,max_its,**kwargs): 
+    print('w into newtons', w.shape)
     # flatten input funciton, in case it takes in matrices of weights
     g_flat, unflatten, w = flatten_func(g, w)
     
@@ -63,6 +64,9 @@ def newtons_method(g,w,x,y,max_its,**kwargs):
     
     # record history
     num_train = y.size
+    print('x', x.shape)
+    print('y', y.shape)
+    print('w', w.shape)
     w_hist = [unflatten(w)]
     train_hist = [g_flat(w,x,y,np.arange(num_train))]
 
