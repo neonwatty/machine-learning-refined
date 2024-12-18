@@ -50,8 +50,8 @@
 
 ## Errata
 
-# Errata for the 2nd edition of Machine Learning Refined ([Download PDF 📄](https://www.dropbox.com/scl/fi/1ovc9p4f5f17qdy485odp/errata.pdf?rlkey=6a1z5xtbqyqxars56zdo0v7gc&st=lgn640hy&dl=0))
+### Errata for the 2nd edition of Machine Learning Refined ([Download PDF 📄](https://www.dropbox.com/scl/fi/1ovc9p4f5f17qdy485odp/errata.pdf?rlkey=6a1z5xtbqyqxars56zdo0v7gc&st=lgn640hy&dl=0))
 
 ## Older 1st edition PDFs
 
-# All files ([Download PDFs 📄](https://www.dropbox.com/scl/fo/eu8ldo5wg7qcdgn8jlk3k/AJM5Xo7jqFrudrlBi-ApLY8?rlkey=bg91v9v6w4m9aux0v9sjqhhp6&st=hp9flwd1&dl=0))
+### All files ([Download PDFs 📄](https://www.dropbox.com/scl/fo/eu8ldo5wg7qcdgn8jlk3k/AJM5Xo7jqFrudrlBi-ApLY8?rlkey=bg91v9v6w4m9aux0v9sjqhhp6&st=hp9flwd1&dl=0))
