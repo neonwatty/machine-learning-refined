@@ -1,0 +1,9 @@
+venv/
+__pycache__
+.ipynb_checkpoints
+.pyc
+.DS_Store
+.Trash-0
+.*  
+*~
+!/.gitignore  

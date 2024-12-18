@@ -1,0 +1,8 @@
+notebook
+matplotlib
+numpy
+pandas
+scipy
+autograd
+ruff
+jax[cpu]
