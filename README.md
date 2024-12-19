@@ -2,26 +2,26 @@
 
 <img align="right" src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main/images/cover_2nd.png" height="420">
 
-## Welcome! 
+## Welcome!
 
 Learn machine learning from the ground up - using Python and a handful of fundamental tools.
 
-This repository contains a range of resources associated with the 2nd edition of the university textbook Machine Learning Refined.  [Our pedagological approach](#our-pedagogy) stresses intuition, visualization, and "getting your hands dirty" building real machine learning models from scratch.  The only [technical prerequisites](#technical-prerequisites) is a basic understanding of Python and matrix maths.
+This repository contains a range of resources associated with the 2nd edition of the university textbook Machine Learning Refined. [Our pedagogical approach](#our-pedagogy) stresses intuition, visualization, and "getting your hands dirty" building real machine learning models from scratch. The only [technical prerequisites](#technical-prerequisites) is a basic understanding of Python and matrix maths.
 
 ## Independent learners
 
-Are you an independent learner aiming to build a solid foundation in machine learning? 
-Get started fast by 
+Are you an independent learner aiming to build a solid foundation in machine learning?
+Get started fast by
 
 - [Downloading a PDF of the book](https://github.com/neonwatty/machine-learning-refined/tree/main/chapter_pdfs)
 - [Examining the online notes](https://github.com/neonwatty/machine-learning-refined/tree/main/notes), and
 - Taking a look at our [getting started guide](#how-to-use-the-book) to using the text to help you best achieve your goals
 
-When you're ready - follow our [installation instructions](#software-installation-and-dependencies) to run the notes locally or [get started on a range of exercises](https://github.com/neonwatty/machine-learning-refined/tree/main/exercises).  Always feel free to reach out to us with questions by [filing an issue in this repository](https://github.com/neonwatty/machine-learning-refined/issues).
+When you're ready - follow our [installation instructions](#software-installation-and-dependencies) to run the notes locally or [get started on a range of exercises](https://github.com/neonwatty/machine-learning-refined/tree/main/exercises). Always feel free to reach out to us with questions by [filing an issue in this repository](https://github.com/neonwatty/machine-learning-refined/issues).
 
 ## Instructors
 
-Are you an instructor looking use the text in an upcoming course?  [You're in good company!](#reviews-and-endorsements).
+Are you an instructor looking use the text in an upcoming course? [You're in good company!](#reviews-and-endorsements).
 
 Get started fast by
 
@@ -33,7 +33,6 @@ Get started fast by
 - [Downloading exercise wrappers and datasets](https://github.com/neonwatty/machine-learning-refined/tree/main/exercises)
 
 Instructor requests are most easily answered by [filing an issue in this repository](https://github.com/neonwatty/machine-learning-refined/issues).
-
 
 ## Our pedagogy
 
@@ -51,11 +50,11 @@ We wrote our text with the aim of empowering readers to grasp the concepts of cl
 
 [(Back to top)](#welcome)
 
-Early drafts of the 2nd edition were released as Jupyter / Collab notebooks and are shared below. 
+Early drafts of the 2nd edition were released as Jupyter / Collab notebooks and are shared below.
 
 While these allow for interesting and unique interactivity, the final draft significantly expands on this content and [is available for download as a PDF here](https://github.com/neonwatty/machine-learning-refined/tree/main/chapter_pdfs).
 
- <br><br>
+<br><br>
 
 <p align="center"><img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/ipynb.gif" width="60%" height="auto"></p>
 <br>
@@ -257,7 +256,6 @@ C.1 Introduction<br>
 [C.4 Eigenvalues and Eigenvectors](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/16_Linear_algebra/16_4_Eigen.ipynb) [![16.4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/16_Linear_algebra/16_4_Eigen.ipynb) \
 [C.5 Vector and Matrix Norms](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/16_Linear_algebra/16_5_Norms.ipynb) [![16.5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/16_Linear_algebra/16_5_Norms.ipynb)
 
-
 ## How to use the book?
 
 [(Back to top)](#welcome)
@@ -326,7 +324,7 @@ to view the repository contents - including jupyter notebooks.
 
 #### Anaconda method
 
-After installing [Anaconda Python 3 distribution](https://www.anaconda.com/download) on your machine, cd into this repo's directory and follow these steps to create a conda virtual environment to view its contents and notebooks.  Python 3.10 and up is required.
+After installing [Anaconda Python 3 distribution](https://www.anaconda.com/download) on your machine, cd into this repo's directory and follow these steps to create a conda virtual environment to view its contents and notebooks. Python 3.10 and up is required.
 
 First, create the environment
 
@@ -392,12 +390,11 @@ to view the repository contents - including jupyter notebooks.
 
 **Islem Rekik**, Director of the Brain And SIgnal Research and Analysis (BASIRA) Laboratory
 
-
 ## A sample of widgets from the notes
 
 [(Back to top)](#welcome)
 
-You'll find a large number of [intuitive animations](#our-pedagogy) in the [notes](#online-notes) of this repository. 
+You'll find a large number of [intuitive animations](#our-pedagogy) in the [notes](#online-notes) of this repository.
 
 <br><br>
 
