@@ -14,7 +14,7 @@ Are you an independent learner aiming to build a solid foundation in machine lea
 Get started fast by
 
 - [Downloading a PDF of the book](https://github.com/neonwatty/machine-learning-refined/tree/main/chapter_pdfs)
-- [Examining the online notes](https://github.com/neonwatty/machine-learning-refined/tree/main/notes), and
+- [Examining the online notes](#online-notes), and
 - Taking a look at our [getting started guide](#how-to-use-the-book) to using the text to help you best achieve your goals
 
 When you're ready - follow our [installation instructions](#software-installation-and-dependencies) to run the notes locally or [get started on a range of exercises](https://github.com/neonwatty/machine-learning-refined/tree/main/exercises). Always feel free to reach out to us with questions by [filing an issue in this repository](https://github.com/neonwatty/machine-learning-refined/issues).
@@ -28,7 +28,7 @@ Get started fast by
 - [Downloading a PDF of the book](https://github.com/neonwatty/machine-learning-refined/tree/main/chapter_pdfs)
 - Examining our [getting started guide](#how-to-use-the-book) to help you best employ the text in your course
 - [Perusing a sample of widgets from the notes](#a-sample-of-widgets-from-the-notes)
-- [Examining the online notes](https://github.com/neonwatty/machine-learning-refined/tree/main/notes)
+- [Examining the online notes](#online-notes)
 - [Downloading PPTX slides associated with each section of the text](https://github.com/neonwatty/machine-learning-refined/tree/main/presentations)
 - [Downloading exercise wrappers and datasets](https://github.com/neonwatty/machine-learning-refined/tree/main/exercises)
 
