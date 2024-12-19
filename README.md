@@ -346,13 +346,19 @@ And finally, open any web browser and traverse to
 
 to view the repository contents - including jupyter notebooks.
 
-#### pip method
+#### pip / uv method
 
-Using Python 3.10 or above and pip on your machine, cd into this repo's directory and follow these steps to install the required packages.
+Using Python 3.10 or above and pip or [uv](https://github.com/astral-sh/uv) on your machine, cd into this repo's directory and follow these steps to install the required packages.
 
-First install Python requirements
+First create a virtual environment and activate it - for example with uv
 
-`pip install -r requirements.txt`
+```bash
+uv venv --python 3.10.0 && source .venv/bin/activate 
+```
+
+Then install Python requirements
+
+`uv pip install -r requirements.txt`
 
 Run jupyter via the command below
 
