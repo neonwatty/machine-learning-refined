@@ -2,127 +2,60 @@
 
 <img align="right" src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main/images/cover_2nd.png" height="420">
 
-This repository contains [chapter pdfs](https://github.com/jermwatt/machine_learning_refined/tree/main/chapter_pdfs/2nd_ed), [interactive Jupyter / Collab notebooks](#book-chapters), [exercises](#coding-exercises), and [presentations](#slides-and-additional-instructor-resources) for the 2nd edition of the university textbook Machine Learning Refined.
+## Welcome! 
 
-Below is a detailed table of contents for the repo.
+Learn machine learning from the ground up - using Python and a handful of fundamental tools.
 
-# Table of Contents
+This repository contains a range of resources associated with the 2nd edition of the university textbook Machine Learning Refined.  [Our pedagological approach](#our-pedagogy) stresses intuition, visualization, and "getting your hands dirty" building real machine learning models from scratch.  The only [technical prerequisites](#technical-prerequisites) is a basic understanding of Python and matrix maths.
 
-- [Download chapter PDFs for the 2nd edition 📄](https://github.com/jermwatt/machine_learning_refined/tree/main/chapter_pdfs/2nd_ed)
-- [A sampler of widgets / pedagogy](#a-sampler-of-widgets-and-our-pedagogy)
-- [Chapter notes and Jupyter /Collab notebooks](#book-chapters)
-- [What is new in the second edition?](#what-is-new-in-the-second-edition)
-- [How to use the book](#how-to-use-the-book)
-- [Technical prerequisites](#technical-prerequisites)
-- [Coding exercises](#coding-exercises)
-- [Slides and additional instructor resources](#slides-and-additional-instructor-resources)
-- [Errata](#errata)
-- [Get a copy of the book](#get-a-copy-of-the-book)
-- [Reviews and Endorsements](#reviews-and-endorsements)
-- [Software installation and dependencies](#software-installation-and-dependencies)
-- [Contact](#contact)
+## Independent learners
 
-<br><br><br>
+Are you an independent learner aiming to build a solid foundation in machine learning? 
+Get started fast by 
 
-## A sampler of widgets and our pedagogy
+- [Downloading a PDF of the book](https://github.com/neonwatty/machine-learning-refined/tree/main/chapter_pdfs)
+- [Examining the online notes](https://github.com/neonwatty/machine-learning-refined/tree/main/notes), and
+- Taking a look at our [getting started guide](#how-to-use-the-book) to using the text to help you best achieve your goals
 
-[(Back to top)](#table-of-contents)
+When you're ready - follow our [installation instructions](#software-installation-and-dependencies) to run the notes locally or [get started on a range of exercises](https://github.com/neonwatty/machine-learning-refined/tree/main/exercises).  Always feel free to reach out to us with questions by [filing an issue in this repository](https://github.com/neonwatty/machine-learning-refined/issues).
 
-We believe mastery of a certain machine learning concept/topic is achieved only when the answer to each of the following three questions is affirmative.
+## Instructors
+
+Are you an instructor looking use the text in an upcoming course?  [You're in good company!](#reviews-and-endorsements).
+
+Get started fast by
+
+- [Downloading a PDF of the book](https://github.com/neonwatty/machine-learning-refined/tree/main/chapter_pdfs)
+- Examining our [getting started guide](#how-to-use-the-book) to help you best employ the text in your course
+- [Perusing a sample of widgets from the notes](#a-sample-of-widgets-from-the-notes)
+- [Examining the online notes](https://github.com/neonwatty/machine-learning-refined/tree/main/notes)
+- [Downloading PPTX slides associated with each section of the text](https://github.com/neonwatty/machine-learning-refined/tree/main/presentations)
+- [Downloading exercise wrappers and datasets](https://github.com/neonwatty/machine-learning-refined/tree/main/exercises)
+
+Instructor requests are most easily answered by [filing an issue in this repository](https://github.com/neonwatty/machine-learning-refined/issues).
+
+
+## Our pedagogy
+
+[(Back to top)](#welcome)
+
+We believe mastery of a machine learning concept/topic is achieved only when the answer to each of the following three questions is affirmative.
 
 1. **`Intuition`** Can you describe the idea with a simple picture?
 2. **`Mathematical derivation`** Can you express your intuition in mathematical notation and derive underlying models/cost functions?
 3. **`Implementation`** Can you code up your derivations in a programming language, say Python, without using high-level libraries?
 
-<br>
+We wrote our text with the aim of empowering readers to grasp the concepts of classic machine learning at this high standard.
 
-**`Intuition comes first.`** Intuitive leaps precede intellectual ones, and because of this we have included over 300 color illustrations in the book that have been meticulously designed to enable an intuitive grasp
-of technical concepts. Many of those illustrations are snapshots of animations that show convergence of certain algorithms,
-evolution of certain models from underfitting all the way to overfitting, etc. This sort of concepts can be illustrated and intuited best using animations (as opposed to static figures).
-You'll find a large number of such animations in this repository -- which you can modify yourself too via the raw Jupyter notebook version of these notes. Here are just a few examples:<br><br>
+## Online notes
 
-| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main/gifs/cross_validation_regression.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main/gifs/cross_validation_two_class.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/cross_validation_multiclass.gif" width="300px" height="auto"> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cross-validation (regression)                                                                                                                           | Cross-validation (two-class classification)                                                                                                            | Cross-validation (multi-class classification)                                                                                                            |
+[(Back to top)](#welcome)
 
-<br><br>
+Early drafts of the 2nd edition were released as Jupyter / Collab notebooks and are shared below. 
 
-| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/Kmeans.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/feature_normalization.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/normalized_gradient_descent.gif" width="300px" height="auto"> |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| K-means clustering                                                                                                                  | Feature normalization                                                                                                                              | Normalized gradient descent                                                                                                                              |
+While these allow for interesting and unique interactivity, the final draft significantly expands on this content and [is available for download as a PDF here](https://github.com/neonwatty/machine-learning-refined/tree/main/chapter_pdfs).
 
-<br><br>
-
-| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/Rotation.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/convexification.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/Nurgetson.gif" width="300px" height="auto"> |
-| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Rotation                                                                                                                              | Convexification                                                                                                                              | Dogification!                                                                                                                          |
-
-<br><br>
-
-| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/nonlinear_transformation.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/weighted_classification.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/moving_average.gif" width="300px" height="auto"> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| A nonlinear transformation                                                                                                                            | Weighted classification                                                                                                                              | The moving average                                                                                                                          |
-
-<br><br>
-
-| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/batch_normalization.gif" width="450px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/logistic_regression.gif" width="450px" height="auto"> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Batch normalization                                                                                                                              | Logistic regression                                                                                                                              |
-
-<br><br>
-
-| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/poly_vs_NN_vs_trees_regression.gif" width="450px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/poly_vs_NN_vs_trees_classification.gif" width="450px" height="auto"> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Polynomials vs. NNs vs. Trees (regression)                                                                                                                  | Polynomials vs. NNs vs. Trees (classification)                                                                                                                  |
-
-<br><br>
-
-| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/steplength_1D.gif" width="450px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/steplength_2D.gif" width="450px" height="auto"> |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Changing gradient descent's steplength (1d)                                                                                                | Changing gradient descent's steplength (2d)                                                                                                |
-
-<br><br>
-
-| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/convex_combination.gif" width="450px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/taylor_series.gif" width="450px" height="auto"> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Convex combination of two functions                                                                                                             | Taylor series approximation                                                                                                                |
-
-<br><br>
-
-| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/feature_selection.gif" width="450px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/secant_2d.gif" width="450px" height="auto"> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Feature selection via regularization                                                                                                           | Secant planes                                                                                                                          |
-
-<br><br>
-
-| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/function_approx_NN.gif" width="450px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/regression_tree.gif" width="450px" height="auto"> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Function approximation with a neural network                                                                                                    | A regression tree                                                                                                                            |
-
-<br><br>
-
-**`Mathematical optimization: the workhorse of machine learning.`** We highly emphasize the importance of mathematical optimization in our treatment of machine learning. Optimization is the workhorse of machine learning
-and is fundamental at many levels – from the tuning of individual models to
-the general selection of appropriate nonlinearities via cross-validation. Because
-of this a strong understanding of mathematical optimization is requisite if one
-wishes to deeply understand machine learning, and if one wishes to be able to
-implement fundamental algorithms. Part I of the book provides a complete introduction to mathematical optimization, covering zero-, first-, and second-order methods, that are relied upon later in deriving and tuning machine learning models.<br><br>
-
-**`Learning by doing.`** We place significant emphasis on the design and implementation of algorithms throughout the text with implementations of fundamental
-algorithms given in Python. These fundamental examples can then be used as
-building blocks for the reader to help complete the text’s programming exercises, allowing them to ”get their hands dirty” and ”learn by doing,” practicing
-the concepts introduced in the body of the text. While in principle any programming language can be used to complete the text’s coding exercises, we highly
-recommend using Python for its ease of use and large support community. We
-also recommend using the open-source Python libraries NumPy, autograd, and
-matplotlib, as well as the Jupyter notebook editor to make implementing and
-testing code easier. A complete set of installation instructions, datasets, as well
-as starter notebooks can be found in this repository.<br><br>
-
-## Book chapters
-
-[(Back to top)](#table-of-contents)
-
-A select number of Chapters/Sections are highlighted below and are linked to fully interactive Collab / Jupyter notebooks that served as _early drafts_ for the second edition of the textbook. You can find these html files as well as Jupyter notebooks which created them in the `notes` subdirectory. <br><br>
+ <br><br>
 
 <p align="center"><img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/ipynb.gif" width="60%" height="auto"></p>
 <br>
@@ -324,22 +257,10 @@ C.1 Introduction<br>
 [C.4 Eigenvalues and Eigenvectors](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/16_Linear_algebra/16_4_Eigen.ipynb) [![16.4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/16_Linear_algebra/16_4_Eigen.ipynb) \
 [C.5 Vector and Matrix Norms](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/16_Linear_algebra/16_5_Norms.ipynb) [![16.5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/machine_learning_refined/blob/main/notes/16_Linear_algebra/16_5_Norms.ipynb)
 
-## What is new in the second edition?
-
-[(Back to top)](#table-of-contents)
-
-The second edition of this text is a complete revision of our first endeavor, with
-virtually every chapter of the original rewritten from the ground up and eight
-new chapters of material added, doubling the size of the first edition. Topics from
-the first edition, from expositions on gradient descent to those on One-versusAll classification and Principal Component Analysis have been reworked and
-polished. A swath of new topics have been added throughout the text, from
-derivative-free optimization to weighted supervised learning, feature selection,
-nonlinear feature engineering, boosting-based cross-validation, and more.
-While heftier in size, the intent of our original attempt has remained unchanged: to explain machine learning, from first principles to practical implementation, in the simplest possible terms.<br><br>
 
 ## How to use the book?
 
-[(Back to top)](#table-of-contents)
+[(Back to top)](#welcome)
 
 Example ”roadmaps” shown below provide suggested paths
 for navigating the text based on a variety of learning outcomes and university
@@ -367,7 +288,7 @@ courses taught using the present book.
 
 ## Technical prerequisites
 
-[(Back to top)](#table-of-contents)
+[(Back to top)](#welcome)
 
 To make full use of the text one needs only a basic understanding of vector algebra (mathematical
 functions, vector arithmetic, etc.) and computer programming (for example,
@@ -376,39 +297,76 @@ complete introductory treatments of other prerequisite topics including linear
 algebra, vector calculus, and automatic differentiation in the appendices of the
 text.<br><br>
 
-## Coding exercises
+## Software installation and dependencies
 
-[(Back to top)](#table-of-contents)
+[(Back to top)](#welcome)
 
-In the [mlrefined_exercises](https://github.com/jermwatt/machine_learning_refined/tree/main/mlrefined_exercises) directory you can find starting wrappers for coding exercises from the first and second editions of the text.<br><br>
+### Google Collab !
 
-## Slides and additional instructor resources
+The majority of the notes and exercise wrappers in this repository can be run without the need to install anything locally - for free on Google Collab. Click the Collab sticker ![collab sticker](https://colab.research.google.com/assets/colab-badge.svg) at the top of a notebook to open it in Collab.
 
-[(Back to top)](#table-of-contents)
+### Running locally
 
-[Slides for the 2nd edition of the text](https://github.com/jermwatt/machine_learning_refined/tree/main/presentations/2nd_edition) are available in pptx, jupyter, and reveal.js formats. [Slides for the 1st edition of the text](https://github.com/jermwatt/machine_learning_refined/tree/main/presentations/1st_edition) are also available.
+After cloning this repository and entering the directory we recommend one of three methods for successfully running the Jupyter notebooks contained therein.
 
-Instructors may request a copy of this text for examination from the [publisher's website](http://cambridge.force.com/Samples?isbn=9781108480727&Title=Machine%20Learning%20Refined&Author=Watt/Borhani/Katsaggelos). Cambridge University Press can also provide you with the **solution manual** to both editions of the text.<br><br>
+#### Docker method
 
-## Errata
+After installing [docker and docker-compose on your machine](https://docs.docker.com/compose/install/)  
+traverse to this repo at your terminal and type
 
-[(Back to top)](#table-of-contents)
+`docker-compose up -d`
 
-<a target="_blank" href="https://github.com/jermwatt/machine_learning_refined/blob/main/chapter_pdfs/errata/errata.pdf">Here</a> you can find a regularly updated errata sheet for the second edition of the text. Please report any typos, bugs, broken links, etc., in the **Issues Section** of this repository or by contacting us directly via email (see contact section for more info).<br><br>
+When running this command the first time an associated docker image is pulled from DockerHub.
 
-## Get a copy of the book
+Then in any web browser go to
 
-[(Back to top)](#table-of-contents)
+`localhost:8888`
 
-- [Free sample chapters in pdf format](<(https://github.com/jermwatt/machine_learning_refined/tree/main/chapter_pdfs/2nd_ed)>)
-- From [Cambridge University Press](https://www.cambridge.org/us/academic/subjects/engineering/communications-and-signal-processing/machine-learning-refined-foundations-algorithms-and-applications-2nd-edition?format=HB)
-- From [Amazon](https://www.amazon.com/Machine-Learning-Refined-Foundations-Applications/dp/1108480721)
-- From [Barnes & Noble](https://www.barnesandnoble.com/w/machine-learning-refined-jeremy-watt/1136155294?ean=9781108480727)
-  <br><br>
+to view the repository contents - including jupyter notebooks.
+
+#### Anaconda method
+
+After installing [Anaconda Python 3 distribution](https://www.anaconda.com/download) on your machine, cd into this repo's directory and follow these steps to create a conda virtual environment to view its contents and notebooks.  Python 3.10 and up is required.
+
+First, create the environment
+
+`conda create python=3.10 --name mlr2 --file requirements.txt`
+
+Then activate it
+
+`conda activate mlr2`
+
+Run jupyter via the command below
+
+`jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token=''`
+
+And finally, open any web browser and traverse to
+
+`localhost:8888`
+
+to view the repository contents - including jupyter notebooks.
+
+#### pip method
+
+Using Python 3.10 or above and pip on your machine, cd into this repo's directory and follow these steps to install the required packages.
+
+First install Python requirements
+
+`pip install -r requirements.txt`
+
+Run jupyter via the command below
+
+`jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token=''`
+
+And finally, open any web browser and traverse to
+
+`localhost:8888`
+
+to view the repository contents - including jupyter notebooks.
 
 ## Reviews and Endorsements
 
-[(Back to top)](#table-of-contents)
+[(Back to top)](#welcome)
 
 > An excellent book that treats the fundamentals of machine learning from basic principles to practical implementation. The book is suitable as a text for senior-level and first-year graduate courses in engineering and computer science. It is well organized and covers basic concepts and algorithms in mathematical optimization methods, linear learning, and nonlinear learning techniques. The book is nicely illustrated in multiple colors and contains numerous examples and coding exercises using Python.
 
@@ -433,77 +391,79 @@ Instructors may request a copy of this text for examination from the [publisher'
 > Books featuring machine learning are many, but those which are simple, intuitive, and yet theoretical are extraordinary 'outliers'. This book is a fantastic and easy way to launch yourself into the exciting world of machine learning, grasp its core concepts, and code them up in Python or Matlab. It was my inspiring guide in preparing my 'Machine Learning Blinks' on my BASIRA YouTube channel for both undergraduate and graduate levels.
 
 **Islem Rekik**, Director of the Brain And SIgnal Research and Analysis (BASIRA) Laboratory
+
+
+## A sample of widgets from the notes
+
+[(Back to top)](#welcome)
+
+You'll find a large number of [intuitive animations](#our-pedagogy) in the [notes](#online-notes) of this repository. 
+
 <br><br>
 
-## Software installation and dependencies
+| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main/gifs/cross_validation_regression.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main/gifs/cross_validation_two_class.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/cross_validation_multiclass.gif" width="300px" height="auto"> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cross-validation (regression)                                                                                                                           | Cross-validation (two-class classification)                                                                                                            | Cross-validation (multi-class classification)                                                                                                            |
 
-[(Back to top)](#table-of-contents)
+<br><br>
 
-### Google Collab !
+| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/Kmeans.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/feature_normalization.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/normalized_gradient_descent.gif" width="300px" height="auto"> |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| K-means clustering                                                                                                                  | Feature normalization                                                                                                                              | Normalized gradient descent                                                                                                                              |
 
-The majority of the notes and exercise wrappers in this repository can be run without the need to install anything locally - for free on Google Collab. Click the Collab sticker ![collab sticker](https://colab.research.google.com/assets/colab-badge.svg) at the top of a notebook to open it in Collab.
+<br><br>
 
-### Running locally
+| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/Rotation.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/convexification.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/Nurgetson.gif" width="300px" height="auto"> |
+| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Rotation                                                                                                                              | Convexification                                                                                                                              | Dogification!                                                                                                                          |
 
-After cloning this repository and entering the directory we recommend one of three methods for successfully running the Jupyter notebooks contained therein.
+<br><br>
 
-#### Docker method (**strongly recommended**)
+| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/nonlinear_transformation.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/weighted_classification.gif" width="300px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/moving_average.gif" width="300px" height="auto"> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| A nonlinear transformation                                                                                                                            | Weighted classification                                                                                                                              | The moving average                                                                                                                          |
 
-After installing [docker and docker-compose on your machine](https://docs.docker.com/compose/install/)  
-traverse to this repo at your terminal and type
+<br><br>
 
-`docker-compose up -d`
+| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/batch_normalization.gif" width="450px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/logistic_regression.gif" width="450px" height="auto"> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Batch normalization                                                                                                                              | Logistic regression                                                                                                                              |
 
-When running this command the first time an associated docker image is pulled from DockerHub.
+<br><br>
 
-Then in any web browser go to
+| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/poly_vs_NN_vs_trees_regression.gif" width="450px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/poly_vs_NN_vs_trees_classification.gif" width="450px" height="auto"> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Polynomials vs. NNs vs. Trees (regression)                                                                                                                  | Polynomials vs. NNs vs. Trees (classification)                                                                                                                  |
 
-`localhost:8888`
+<br><br>
 
-to view the repository contents - including jupyter notebooks.
+| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/steplength_1D.gif" width="450px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/steplength_2D.gif" width="450px" height="auto"> |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Changing gradient descent's steplength (1d)                                                                                                | Changing gradient descent's steplength (2d)                                                                                                |
 
-#### Anaconda method
+<br><br>
 
-After installing [Anaconda Python 3 distribution](https://www.anaconda.com/download) on your machine, cd into this repo's directory and follow these steps to create a conda virtual environment to view its contents and notebooks.
+| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/convex_combination.gif" width="450px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/taylor_series.gif" width="450px" height="auto"> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Convex combination of two functions                                                                                                             | Taylor series approximation                                                                                                                |
 
-First, create the environment
+<br><br>
 
-`conda create python=3.6 --name mlr2 --file requirements.txt`
+| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/feature_selection.gif" width="450px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/secant_2d.gif" width="450px" height="auto"> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Feature selection via regularization                                                                                                           | Secant planes                                                                                                                          |
 
-Then activate it
+<br><br>
 
-`conda activate mlr2`
+| <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/function_approx_NN.gif" width="450px" height="auto"> | <img src="https://github.com/neonwatty/machine-learning-refined-readme-gifs/raw/main//gifs/regression_tree.gif" width="450px" height="auto"> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Function approximation with a neural network                                                                                                    | A regression tree                                                                                                                            |
 
-Run jupyter via the command below
+## Get a physical copy of the book
 
-`jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token=''`
+[(Back to top)](#welcome)
 
-And finally, open any web browser and traverse to
-
-`localhost:8888`
-
-to view the repository contents - including jupyter notebooks.
-
-#### pip method
-
-Using Python3 and pip on your machine, cd into this repo's directory and follow these steps to install the required packages.
-
-First install Python requirements
-
-`pip install -r requirements.txt`
-
-Run jupyter via the command below
-
-`jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token=''`
-
-And finally, open any web browser and traverse to
-
-`localhost:8888`
-
-to view the repository contents - including jupyter notebooks.
-
-## Contact
-
-[(Back to top)](#table-of-contents)
-
-This repository is in active development by [Jeremy Watt](mailto:jermwatt@gmail.com) and [Reza Borhani](mailto:rzbrhn@gmail.com). Please do not hesitate to reach out with comments, questions, typos, etc.
+- From [Cambridge University Press](https://www.cambridge.org/us/academic/subjects/engineering/communications-and-signal-processing/machine-learning-refined-foundations-algorithms-and-applications-2nd-edition?format=HB)
+- From [Amazon](https://www.amazon.com/Machine-Learning-Refined-Foundations-Applications/dp/1108480721)
+- From [Barnes & Noble](https://www.barnesandnoble.com/w/machine-learning-refined-jeremy-watt/1136155294?ean=9781108480727)
+  <br><br>
