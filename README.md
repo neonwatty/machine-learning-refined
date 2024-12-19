@@ -13,11 +13,11 @@ This repository contains a range of resources associated with the 2nd edition of
 Are you an independent learner aiming to build a solid foundation in machine learning?
 Get started fast by
 
-- [Downloading a PDF of the book](https://github.com/neonwatty/machine-learning-refined/tree/main/chapter_pdfs)
+- [Downloading a free PDF of the book](https://github.com/neonwatty/machine-learning-refined/tree/main/chapter_pdfs)
 - [Examining the online notes](#online-notes), and
 - Taking a look at our [getting started guide](#how-to-use-the-book) to using the text to help you best achieve your goals
 
-When you're ready - follow our [installation instructions](#software-installation-and-dependencies) to run the notes locally or [get started on a range of exercises](https://github.com/neonwatty/machine-learning-refined/tree/main/exercises). Always feel free to reach out to us with questions by [filing an issue in this repository](https://github.com/neonwatty/machine-learning-refined/issues).
+When you're ready - follow our [installation instructions](#software-installation-and-dependencies) to run the notes locally or [get started on a range of exercises](https://github.com/neonwatty/machine-learning-refined/tree/main/exercises). Always feel free to reach out to us with questions by [filing an issue in this repository](https://github.com/neonwatty/machine-learning-refined/issues).  A physical copy of the text may be procured via [online retailers like these](#get-a-physical-copy-of-the-book).
 
 ## Instructors
 
@@ -25,7 +25,7 @@ Are you an instructor looking use the text in an upcoming course? [You're in goo
 
 Get started fast by
 
-- [Downloading a PDF of the book](https://github.com/neonwatty/machine-learning-refined/tree/main/chapter_pdfs)
+- [Downloading a free PDF of the book](https://github.com/neonwatty/machine-learning-refined/tree/main/chapter_pdfs)
 - Examining our [getting started guide](#how-to-use-the-book) to help you best employ the text in your course
 - [Perusing a sample of widgets from the notes](#a-sample-of-widgets-from-the-notes)
 - [Examining the online notes](#online-notes)
@@ -33,6 +33,8 @@ Get started fast by
 - [Downloading exercise wrappers and datasets](https://github.com/neonwatty/machine-learning-refined/tree/main/exercises)
 
 Instructor requests are most easily answered by [filing an issue in this repository](https://github.com/neonwatty/machine-learning-refined/issues).
+
+Verified college and university instructors may request a free physical copy of the text for examination via the [publisher's website](http://cambridge.force.com/Samples?isbn=9781108480727&Title=Machine%20Learning%20Refined&Author=Watt/Borhani/Katsaggelos). 
 
 ## Our pedagogy
 
