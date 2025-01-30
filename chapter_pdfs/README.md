@@ -22,7 +22,7 @@
 
 ### Chapter 6: Two-Class Classification ([Download PDF 📄](https://www.dropbox.com/scl/fi/yyhy41z562cdj4fx5ki06/chapter_6.pdf?rlkey=wvy5y6zv3lr75l913zpokj3ws&st=83mngoyc&dl=0))
 
-### Chapter 7: Linear Multi-Class Classification ([Download PDF 📄](https://www.dropbox.com/scl/fi/vlc6kkee1xtm5ksvy226l/chapter_4.pdf?rlkey=n1ii3amnbt9z8cd678m1ltgbg&st=z72xxmbq&dl=0))
+### Chapter 7: Linear Multi-Class Classification ([Download PDF 📄](https://www.dropbox.com/scl/fi/9yycarm0vpwcmd4na26rl/chapter_7.pdf?rlkey=7fvh08wupe0wnb8p7yb00ahvn&st=ikdsvr9i&dl=0))
 
 ### Chapter 8: Linear Unsupervised Learning ([Download PDF 📄](https://www.dropbox.com/scl/fi/cd5vvt8986ckoqvr4r9f9/chapter_8.pdf?rlkey=m2am2nq3qthdc7c8jqwcb19ry&st=pkfghbq7&dl=0))
 
