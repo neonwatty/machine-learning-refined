@@ -8,15 +8,16 @@ Learn machine learning from the ground up - using Python and a handful of fundam
 
 This repository contains a range of resources associated with the 2nd edition of the university textbook Machine Learning Refined. [Our pedagogical approach](#our-pedagogy) stresses intuition, visualization, and "getting your hands dirty" building real machine learning models from scratch. The only [technical prerequisites](#technical-prerequisites) is a basic understanding of Python and matrix maths.
 
-### Start with the official companion site
+### Choose a repository resource
 
-Visit [mlrefined.com](https://www.mlrefined.com/) for the official guide to the book, chapters, and resource collection. If you want an explanation before opening a raw notebook, use the [visual, step-by-step Python guides](https://www.mlrefined.com/learn):
+Everything needed to study or teach from the book is organized directly in this repository:
 
-- [Gradient descent from scratch in Python](https://www.mlrefined.com/learn/gradient-descent-from-scratch)
-- [Logistic regression from scratch in Python](https://www.mlrefined.com/learn/logistic-regression-from-scratch)
-- [K-means clustering from scratch in Python](https://www.mlrefined.com/learn/k-means-clustering-from-scratch)
+- [Read or download the chapter PDFs](chapter_pdfs)
+- [Run the source Jupyter notebooks](notes)
+- [Practice with the exercises](exercises)
+- [Use the lecture slides](presentations)
 
-For source material, go directly to the [chapter PDFs](https://github.com/neonwatty/machine-learning-refined/tree/main/chapter_pdfs), [Jupyter notebooks](https://github.com/neonwatty/machine-learning-refined/tree/main/notes), [exercises](https://github.com/neonwatty/machine-learning-refined/tree/main/exercises), or [lecture slides](https://github.com/neonwatty/machine-learning-refined/tree/main/presentations).
+For a suggested path through these materials, jump to [Independent learners](#independent-learners) or [Instructors](#instructors).
 
 ## Independent learners
 
