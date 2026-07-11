@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use these companion resources, please cite the second-edition book in preferred-citation."
+title: "Machine Learning Refined companion resources"
+abstract: "Python notebooks, exercises, chapter PDFs, slides, and other companion resources for the second edition of Machine Learning Refined."
+type: software
+authors:
+  - family-names: Watt
+    given-names: Jeremy
+  - family-names: Borhani
+    given-names: Reza
+repository-code: "https://github.com/neonwatty/machine-learning-refined"
+url: "https://www.mlrefined.com/"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - machine learning
+  - mathematical optimization
+  - Python
+  - Jupyter notebooks
+  - educational resources
+preferred-citation:
+  type: book
+  title: "Machine Learning Refined: Foundations, Algorithms, and Applications"
+  authors:
+    - family-names: Watt
+      given-names: Jeremy
+    - family-names: Borhani
+      given-names: Reza
+    - family-names: Katsaggelos
+      given-names: "Aggelos K."
+  edition: "2"
+  publisher:
+    name: Cambridge University Press
+  year: 2020
+  date-published: "2020-03-12"
+  isbn: "9781108480727"
+  doi: "10.1017/9781108690935"
+  url: "https://www.cambridge.org/highereducation/books/machine-learning-refined/0A64B2370C2F7CE3ACF535835E9D7955"
