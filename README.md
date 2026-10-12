@@ -19,6 +19,16 @@ Everything needed to study or teach from the book is organized directly in this 
 
 For a suggested path through these materials, jump to [Independent learners](#independent-learners) or [Instructors](#instructors).
 
+### Explore the official companion site
+
+Use the [learning guides](https://www.mlrefined.com/learn) for focused explanations, NumPy examples, checked outputs, and links back to the book’s source notebooks:
+
+- [Gradient descent from scratch in Python](https://www.mlrefined.com/learn/gradient-descent-from-scratch) — understand the update rule, step size, and convergence.
+- [Logistic regression from scratch in Python](https://www.mlrefined.com/learn/logistic-regression-from-scratch) — connect sigmoid probabilities, cross-entropy, and classification thresholds.
+- [K-means clustering from scratch in Python](https://www.mlrefined.com/learn/k-means-clustering-from-scratch) — follow centroid updates, cluster assignments, and initialization choices.
+- [Visual notebook collection](https://www.mlrefined.com/notebooks) — preview book animations and open the associated source notebooks or Colab examples.
+- [Official downloads and setup instructions](https://www.mlrefined.com/resources) — find the PDF, notebook, exercise, and slide collections, plus Colab and local Jupyter setup guidance.
+
 ## Independent learners
 
 Are you an independent learner aiming to build a solid foundation in machine learning?
