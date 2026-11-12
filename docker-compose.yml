@@ -7,12 +7,12 @@ services:
    image: jermwatt/machine_learning_refined
    container_name: mlr2
    ports:
-    - 8888:8888
+    - "127.0.0.1:8888:8888"
    working_dir: /usr/src/mlr2
    volumes:
     - ./:/usr/src/mlr2
    command: >
-      sh -c "jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token=''"
+      sh -c "jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root"
    restart: "always"
 
 # trust all notebooks - add to command: find . -name '*.ipynb' -exec jupyter trust {} \; &&
