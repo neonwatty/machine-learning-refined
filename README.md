@@ -339,11 +339,8 @@ traverse to this repo at your terminal and type
 
 When running this command the first time an associated docker image is pulled from DockerHub.
 
-Then in any web browser go to
-
-`localhost:8888`
-
-to view the repository contents - including jupyter notebooks.
+Run `docker-compose logs mlr2` to find the Jupyter login URL and token.
+Open `http://127.0.0.1:8888` and enter the token when prompted.
 
 #### Anaconda method
 
@@ -359,13 +356,10 @@ Then activate it
 
 Run jupyter via the command below
 
-`jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token=''`
+`jupyter notebook --port=8888 --ip=127.0.0.1`
 
-And finally, open any web browser and traverse to
-
-`localhost:8888`
-
-to view the repository contents - including jupyter notebooks.
+Open the local URL printed by Jupyter in your browser. The URL includes
+the login token.
 
 #### pip / uv method
 
@@ -383,13 +377,10 @@ Then install Python requirements
 
 Run jupyter via the command below
 
-`jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token=''`
+`jupyter notebook --port=8888 --ip=127.0.0.1`
 
-And finally, open any web browser and traverse to
-
-`localhost:8888`
-
-to view the repository contents - including jupyter notebooks.
+Open the local URL printed by Jupyter in your browser. The URL includes
+the login token.
 
 ## Reviews and Endorsements
 
